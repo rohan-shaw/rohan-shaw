@@ -104,3 +104,6 @@ Here are some ideas to get you started:
 ### :accordion: Profile Stats :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-shaw&show_icons=true&theme=default" alt="github stats" /></p>
 
+### 📛 Holopin Badges :
+[![An image of @rohanshaw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohanshaw)](https://holopin.io/@rohanshaw)
+
